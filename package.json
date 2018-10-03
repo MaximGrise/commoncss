@@ -1,7 +1,7 @@
 {
-  "name": "commoncss",
+  "name": "@payfacto/commoncss",
   "version": "1.0.0",
-  "description": "Common css component for all webapps",
+  "description": "Common css stuff",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,11 @@
     "url": "git+https://github.com/MaximGrise/commoncss.git"
   },
   "keywords": [
-    "css",
     "frontend",
+    "css",
     "common"
   ],
   "author": "PayFacto",
-  "homepage": "https://github.com/MaximGrise/commoncss#readme"
+  "devDependencies": {
+  }
 }
